@@ -12,3 +12,4 @@ wikipedia
 lxml
 langchain_huggingface
 langchain-groq
+langgraph
