@@ -21,3 +21,5 @@ pillow
 scikit-learn
 torch
 replicate
+langchain_chroma
+jq
