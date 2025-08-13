@@ -3,6 +3,7 @@ python-dotenv
 langchain-openai
 langchain-core
 langchain-community
+langchain-experimental 
 bs4
 faiss-cpu
 pypdf
@@ -23,3 +24,4 @@ torch
 replicate
 langchain_chroma
 jq
+rank_bm25
