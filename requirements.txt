@@ -25,3 +25,5 @@ replicate
 langchain_chroma
 jq
 rank_bm25
+ddgs
+duckduckgo-search
