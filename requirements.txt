@@ -27,3 +27,4 @@ jq
 rank_bm25
 ddgs
 duckduckgo-search
+notebook
